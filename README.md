@@ -1,1 +1,1 @@
-#Repositorio criado para aprender a rodar uma aplicacao utilizando Angular.js, nodejs e angular-seed, assim como criar um repositorio no Github, seguindo o tutorial disponibilizado por Raoni Boaventura em http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app 
+Repositorio criado para aprender a rodar uma aplicacao utilizando Angular.js, nodejs e angular-seed, assim como criar um repositorio no Github, seguindo o tutorial disponibilizado por Raoni Boaventura em http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app 
